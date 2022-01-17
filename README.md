@@ -50,3 +50,6 @@
 При несоответствии формата функция должна генерировать исключение, которое должно влиять на валидацию поля (валидацию мы проходили).
 
 ---
+
+[GH-Pages](https://222alexa.github.io/AHJ-10/)
+[![Build status](https://ci.appveyor.com/api/projects/status/d0tejb688inik0ev/branch/main?svg=true)](https://ci.appveyor.com/project/222Alexa44925/ahj-10/branch/main)
